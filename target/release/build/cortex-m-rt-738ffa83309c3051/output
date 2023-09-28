@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/Users/jaypex/Documents/GitHub/stm-rust/target/release/build/cortex-m-rt-738ffa83309c3051/out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=link.x.in

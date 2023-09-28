@@ -1,0 +1,11 @@
+/Users/jaypex/Documents/GitHub/stm-rust/target/release/deps/libembassy_macros-7650af34c21e6118.dylib: /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/lib.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/macros/mod.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/macros/main.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/macros/task.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/util/mod.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/util/ctxt.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/../README.md
+
+/Users/jaypex/Documents/GitHub/stm-rust/target/release/deps/embassy_macros-7650af34c21e6118.d: /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/lib.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/macros/mod.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/macros/main.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/macros/task.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/util/mod.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/util/ctxt.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/../README.md
+
+/Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/lib.rs:
+/Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/macros/mod.rs:
+/Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/macros/main.rs:
+/Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/macros/task.rs:
+/Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/util/mod.rs:
+/Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/util/ctxt.rs:
+/Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-macros/src/../README.md:

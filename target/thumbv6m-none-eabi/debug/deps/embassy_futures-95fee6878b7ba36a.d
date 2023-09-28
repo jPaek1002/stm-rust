@@ -1,0 +1,11 @@
+/Users/jaypex/Documents/GitHub/stm-rust/target/thumbv6m-none-eabi/debug/deps/embassy_futures-95fee6878b7ba36a.rmeta: /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/lib.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/fmt.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/block_on.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/yield_now.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/join.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/select.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/../README.md
+
+/Users/jaypex/Documents/GitHub/stm-rust/target/thumbv6m-none-eabi/debug/deps/embassy_futures-95fee6878b7ba36a.d: /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/lib.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/fmt.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/block_on.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/yield_now.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/join.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/select.rs /Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/../README.md
+
+/Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/lib.rs:
+/Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/fmt.rs:
+/Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/block_on.rs:
+/Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/yield_now.rs:
+/Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/join.rs:
+/Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/select.rs:
+/Users/jaypex/.cargo/git/checkouts/embassy-9312dcb0ed774b29/88146eb/embassy-futures/src/../README.md:

@@ -1,0 +1,5 @@
+cargo:rustc-cfg=cortex_m
+cargo:rustc-cfg=armv6m
+cargo:rustc-link-search=/Users/jaypex/Documents/GitHub/stm-rust/target/thumbv6m-none-eabi/debug/build/cortex-m-rt-11b9d74d0cdff3bb/out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=link.x.in
